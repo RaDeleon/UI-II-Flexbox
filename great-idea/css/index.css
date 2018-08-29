@@ -230,7 +230,10 @@ header nav a:last-child {
 
 .main-content .top-content .text-content {
   width: 410px;
-  display: inline-block;
+  /* display: inline-block; */
+  display:flex;
+  /* border: dotted green; */
+  flex-direction: column;
   margin-right: 34px;
 }
 
@@ -253,7 +256,8 @@ header nav a:last-child {
 }
 .main-content .bottom-content .text-content {
   width: 275px;
-  display: inline-block;
+  display: flex;
+  flex-direction: column;
   margin-right: 12px;
 }
 
