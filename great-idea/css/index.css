@@ -70,11 +70,30 @@ h1, h2, h3, h4, h5 {
 	margin: 0 auto;
 }
 
-header nav {
+header nav{
 	display:flex;
 	justify-content: space-evenly;
 	/* justify-content: flex-start; */
 	color: red;
-	flex-flow:
+	border: solid black;
+	margin: 35px;
 }
 
+a {
+	color:gray;
+}
+
+.logo {
+	display:flex;
+	border:solid red;
+}
+
+.cta {
+	display:flex;
+	border: solid blue;
+	flex-direction: row;
+}
+
+button{
+	border: solid black;
+}
