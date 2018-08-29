@@ -180,6 +180,10 @@ header nav a:last-child {
 	justify-content:space-evenly
 }
 
+.top-content {
+	display:flex;
+	align-content: center;
+}
 .cta .cta-text {
   display: flex;
   /* vertical-align: top; */
@@ -243,6 +247,10 @@ header nav a:last-child {
   padding: 0 10px;
 }
 
+.bottom-content {
+	display:flex;
+	align-content: center;
+}
 .main-content .bottom-content .text-content {
   width: 275px;
   display: inline-block;
