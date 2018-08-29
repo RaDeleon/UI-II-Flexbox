@@ -1,3 +1,57 @@
+/* Copy and paste your work from yesterday here and start to refactor into flexbox */
+
+/* 
+.container {
+	width: 948px;
+	margin: 0 auto;
+}
+
+header nav{
+	display:flex;
+	justify-content: space-evenly;
+	justify-content: flex-start;
+	/* color: red;
+	border: solid black;
+	margin: 35px;
+}
+
+a {
+	color:gray;
+}
+
+.logo {
+	display:flex;
+	border:solid red;
+	margin-top:25px;
+}
+
+.cta {
+	display:flex;
+	border: solid blue;
+	flex-direction: row;
+	justify-content:space-evenly
+}
+
+
+.cta-text {
+	border: dotted red;
+	font-size: 77px;
+	margin-top: 120px;
+	padding: 0px 75px;
+}
+
+button{
+  border: solid black;
+  background:white;
+  margin-top: 6px;
+  padding: 8px 44px;
+  font-size: 17px;
+  border: 1px solid black;
+  cursor: pointer;
+} */
+
+/* <-- OLD --> */
+
 /* NEW CSS */
 
 /* http://meyerweb.com/eric/tools/css/reset/ 
